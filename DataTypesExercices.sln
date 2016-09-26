@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.DifferentIntegersSize", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.ASCII", "17.ASCII\17.ASCII.csproj", "{6EC49FC2-D1E2-473F-A9A2-CE509856F219}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.SweetDessert", "19.SweetDessert\19.SweetDessert.csproj", "{98FAE4E5-B963-495E-A765-2F9194AA12B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.Photographer", "20.Photographer\20.Photographer.csproj", "{7AB60027-EB21-4B64-A8D7-5AB84644EEDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{6EC49FC2-D1E2-473F-A9A2-CE509856F219}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EC49FC2-D1E2-473F-A9A2-CE509856F219}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EC49FC2-D1E2-473F-A9A2-CE509856F219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98FAE4E5-B963-495E-A765-2F9194AA12B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FAE4E5-B963-495E-A765-2F9194AA12B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FAE4E5-B963-495E-A765-2F9194AA12B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FAE4E5-B963-495E-A765-2F9194AA12B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB60027-EB21-4B64-A8D7-5AB84644EEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB60027-EB21-4B64-A8D7-5AB84644EEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB60027-EB21-4B64-A8D7-5AB84644EEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB60027-EB21-4B64-A8D7-5AB84644EEDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
